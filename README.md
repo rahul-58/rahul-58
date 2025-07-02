@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👋 Hi, I’m Rahul — a Master’s student in Computer Science at San Jose State University with a passion for building practical AI and automation tools.<br><br>🛠️ I’ve worked professionally as a Salesforce Developer at Capgemini, where I built low-code workflow automations and optimized enterprise systems.<br><br>💡 I enjoy building projects that blend AI, full-stack dev, and user-focused design — like SkillForge, an AI-powered collaboration platform I took from a hackathon idea to a full product.<br><br>⚙️ My current interests: LLMs, automation, backend dev, and scalable cloud apps.<br><br>📫 Let’s connect — open to internships, collaborations, or just chatting tech!
+👋 Hi, I’m Rahul, a Master’s student in Computer Science at San Jose State University with a passion for building practical AI and automation tools.<br><br>🛠️ I’ve worked professionally as a Salesforce Developer at Capgemini, where I built low-code workflow automations and optimized enterprise systems.<br><br>💡 I enjoy building projects that blend AI, full-stack dev, and user-focused design like SkillForge, an AI-powered collaboration platform I took from a hackathon idea to a full product.<br><br>⚙️ My current interests: LLMs, automation, backend dev, and scalable cloud apps.<br><br>📫 Let’s connect, I'm open to internships, collaborations, or just chatting tech!
 
 
 ## 🌐 Socials:
